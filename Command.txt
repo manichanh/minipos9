@@ -1,0 +1,18 @@
+Laravel
+
+    - php artisan serve         : ເປັນຄຳສັ່ງ Run Project
+    - php artisan key:generate  : ເປັນຄຳສັ່ງສ້າງ Key App
+    - composer install          : ຄຳສັ່ງຕິດຕັ້ງ Ribrary ຂອງ Laravel
+
+VueJS
+
+    - npm install               : ເປັນຄຳສັ່ງຕິດຕັ້ງ Packet ຂອງ VueJS
+    - npm run dev               : ເປັນຄຳສັ່ງ compil VueJS
+
+Git
+
+    - git init                  : ເປັນຄຳສັ່ງຕິດຕັ້ງ ນຳໃຊ້ Git ໃນໂຟນເດີໂປລເຈັກ
+    - git add .                 : ຄຳສັ່ງ add file ເຂົ້າໃນ git
+    - git commit -m "ຄຳສັ່ງອະທິບາຍ" : ຄຳສັ່ງ commit 
+    - git push                  : ຄຳສັ່ງ ອັບໂຫລດໂປລເຈັກ ຂຶ້ນ github
+    - git pull                  : ຄຳສັ່ງ ອັບເດດ ຊ໋ອດໂຄດຫລ້າສຸດຈາກ github
